@@ -1,0 +1,7 @@
+{
+  "Python Developer": ["Python", "OOP", "Git", "Flask", "APIs", "Docker", "SQL"],
+  "Data Analyst": ["SQL", "Excel", "Pandas", "Visualization", "Statistics", "Python"],
+  "SDET": ["Selenium", "Playwright", "API Testing", "CI/CD", "Python", "Test Automation"],
+  "DevOps Engineer": ["Docker", "Kubernetes", "Terraform", "CI/CD", "Linux", "Monitoring"],
+  "ML/AI Specialist": ["Python", "TensorFlow", "PyTorch", "NLP", "Scikit-learn", "Math"]
+}
