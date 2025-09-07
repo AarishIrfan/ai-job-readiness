@@ -7,7 +7,7 @@ It supports skill extraction, mapping, and readiness scoring through a simple St
 
 - Extraction of skills from job descriptions
 - Role-based skill mapping
-- Union merge of role skills and job description skills for evaluation
+- merge of role skills and job description skills for evaluation
 - Readiness scoring with improvement recommendations
 - Streamlit web interface with CSV export support
 
@@ -35,7 +35,4 @@ ai-job-readiness/
 │── utils/               # Helper functions (skill extraction, scoring, parsing)
 │── data/                # Sample roles and job descriptions
 │── README.md            # Documentation
-```
-
-Do you also want me to include a **"Deployment on Streamlit Cloud"** section (with steps and `requirements.txt` handling), so that anyone can run it online without local setup?
 ```
