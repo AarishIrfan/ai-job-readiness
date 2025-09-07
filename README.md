@@ -1,4 +1,3 @@
-````markdown
 # AI-Powered Job Readiness Platform
 
 This project demonstrates a minimal implementation of an AI-powered platform for evaluating job readiness.  
